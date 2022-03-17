@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JonathanBout
+- 👋 Hi, I’m Jonathan Bout
 - 👀 I’m interested in C# and Unity. I also like to do some 3D-Modelling.
 - 📫 You can reach mia via Twitter (@BoutJonathan) or Instagram (@Dutch_Space)
 
