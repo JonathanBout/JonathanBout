@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DutchAerospace (my real name is Jonathan)
-- 👀 I’m interested in C# and Unity Coding. I also like to do some 3D-Modelling.
+- 👋 Hi, I’m JonathanBout
+- 👀 I’m interested in C# and Unity. I also like to do some 3D-Modelling.
 - 📫 You can reach mia via Twitter (@BoutJonathan) or Instagram (@Dutch_Space)
 
 <!---
