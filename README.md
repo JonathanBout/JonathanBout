@@ -1,8 +1,10 @@
 ### 👋 Hi there!
 I am Jonathan Bout, from The Netherlands.
-- I usually code in C#, but I have also learnt Javascript, Python and a bit of C++.
-- In terms of front-end I have some experience in HTML and CSS, and with Razor pages.
-- You can reach mia via Twitter ([@BoutJonathan](https://twitter.com/BoutJonathan)) or Instagram ([@Dutch_Space](https://www.instagram.com/dutch_space/))
+- I am used to C#, but I have also learnt Javascript, Python, a bit of C++ (Arduino) and Shell scripts.
+- In terms of UI I have some experience with HTML, CSS, Razor pages, WinForms, Xamarin and MAUI.
+- I've experience with Unity (stopped using it because it is slow 🐌)
+- Currently building and managing websites, first hosted on a Raspberry Pi 3, now an Odroid N2+
+- You can reach me via Twitter ([@BoutJonathan](https://twitter.com/BoutJonathan)) or Instagram ([@Dutch_Space](https://www.instagram.com/dutch_space/))
 - (aero)space fan :rocket::star:
 
 <!---
