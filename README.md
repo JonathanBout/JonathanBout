@@ -12,7 +12,7 @@ There I made some simple websites using raw HTML and CSS and Apache. What I not 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanbout&show_icons=true&theme=radical&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbout&theme=radical&count_private=true" />
 </a>
 
