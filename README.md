@@ -8,11 +8,11 @@ Since 2020 I've been coding all sorts of things, from games (with Unity) to robo
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbout&theme=radical&count_private=true" />
 </a>
-----
-- I am used to C#, but I have also learnt Javascript (💩), Python (:snake:), and a bit of C++ (with Arduino) and Shell (:shell:) scripts.
-- In terms of UI I have some experience with HTML, CSS, Razor pages, WinForms, Xamarin and MAUI.
-- I have experience with Unity, but don't use it anymore because of the editor's speed (or slowness🐌).
-- Currently building and managing ASP.NET websites, first hosted on a Raspberry Pi 3, now an Odroid N2+.
+<br/>
+- I am used to C#, but I have also learnt Javascript (💩), Python (:snake:), and a bit of C++ (with Arduino) and Shell (:shell:) scripts.<br/>
+- In terms of UI I have some experience with HTML, CSS, Razor pages, WinForms, Xamarin and MAUI.<br/>
+- I have experience with Unity, but don't use it anymore because of the editor's speed (or slowness🐌).<br/>
+- Currently building and managing ASP.NET websites, first hosted on a Raspberry Pi 3, now an Odroid N2+.<br/>
 
 And by the way I also like watching the spaceflight industry :airplane::rocket::star:
 
