@@ -13,7 +13,7 @@ Since 2020 I've been coding all sorts of things, from games (with Unity) to robo
 ### My skills:
 
 <a href='https://skillicons.dev'>
-  <img src='https://skillicons.dev/icons?i=cs,dotnet,unity,js,html,css,bash,linux'/>
+  <img src='https://skillicons.dev/icons?i=cs,dotnet,unity,js,linux,html,css,bash,'/>
 </a>
 <br/>
 ordered from best to least good.
