@@ -2,7 +2,7 @@
   
 # 👋 Hi there!
 
-Welcome to my Github profile! My name is Jonathan Bout and I'm from The Netherlands. Since the beginning of 2022, I've been working on a variety of projects, ranging from games developed on Unity to robots built with Arduino and even web servers created with Raspberry Pi.
+Welcome to my Github profile! My name is Jonathan Bout and I'm from The Netherlands. Since the beginning of 2022, I've been working on a variety of projects, ranging from games developed with Unity to li'l projects with Arduino and even web servers hosted on a Raspberry Pi and an Odroid.
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
 Twitter is linked in my profile.
