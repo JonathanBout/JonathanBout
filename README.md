@@ -12,7 +12,7 @@ Twitter is linked in my profile.
 Here are some of my skills, ordered from best to least good:
 
 <a href='https://skillicons.dev'>
-  <img src='https://skillicons.dev/icons?i=cs,dotnet,unity,js,linux,html,css,bash'/>
+  <img src='https://skillicons.dev/icons?i=cs,dotnet,unity,js,html,css,linux,bash'/>
 </a>
 
 ## Github Stats
@@ -29,7 +29,7 @@ Want to see how I'm doing on Github? Check out my stats below:
 
 ## Interests
 
-I enjoy keeping up with the space industry and its new technology, in addition to coding. It's always exciting to see what's next! :airplane::rocket::star:
+I enjoy keeping up with the space industry and its new technology, in addition to coding. It's always exciting to see a rocket launch! :rocket::star:
 </div>
 <!---
 DutchAerospace/DutchAerospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
