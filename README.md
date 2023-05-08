@@ -26,10 +26,16 @@ Want to see how I'm doing on Github? Check out my stats below:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathanbout&show_icons=true&theme=aura_dark&count_private=true" />
 </a>
+ 
+### StackOverflow Profile
+
+<a href="https://stackoverflow.com/users/16690868/jonathan">
+  <img src="https://stackoverflow.com/users/flair/16690868.png?theme=dark" width="208" height="58" alt="profile for Jonathan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jonathan at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 
 ## Interests
 
-I enjoy keeping up with the space industry and its new technology, in addition to coding. It's always exciting to see a rocket launch! :rocket::star:
+I enjoy keeping up with the space industry and its new technology, in addition to coding. It's always exciting to see a rocket launch into space! :rocket::star:
 </div>
 <!---
 DutchAerospace/DutchAerospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
