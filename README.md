@@ -20,7 +20,7 @@ Here are some of my skills, ordered from best to least good:
 Want to see how I'm doing on Github? Check out my stats below:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbout&theme=aura_dark&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbout&theme=aura_dark&count_private=true&layout=donut" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
