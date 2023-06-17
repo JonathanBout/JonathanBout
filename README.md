@@ -12,7 +12,7 @@ Twitter is linked in my profile.
 Here are some of my skills, ordered from best to least good:
 
 <a href='https://skillicons.dev'>
-  <img src='https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,linux,bash,unity'/>
+  <img src='https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,unity,linux,bash'/>
 </a>
 
 ## Github Stats
