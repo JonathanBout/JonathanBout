@@ -1,8 +1,8 @@
-<div align=center>
   
 # 👋 Hi there!
 
-Welcome to my Github profile! My name is Jonathan Bout and I'm from The Netherlands. Since the beginning of 2022, I've been working on a variety of projects, ranging from games developed with Unity to small projects with Arduino and even web servers hosted on a Raspberry Pi and later an [Odroid N2+](https://wiki.odroid.com/odroid-n2/odroid-n2).
+<div align=center>
+Welcome to my Github profile! My name is Jonathan Bout and I'm from The Netherlands. Since I started programming in early 2020 I have made several projects, ranging from games developed with Unity to small projects with Arduino and even web servers hosted on a Raspberry Pi and later an [Odroid N2+](https://wiki.odroid.com/odroid-n2/odroid-n2). At the moment I'm managing some small Dutch websites, one with WordPress and another one with Blazor and starting September 2023 I am a student informatica at Hogeschool Rotterdam.
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
 Twitter is linked in my profile.
@@ -12,7 +12,7 @@ Twitter is linked in my profile.
 Here are some of my skills, ordered from best to least good:
 
 <a href='https://skillicons.dev'>
-  <img src='https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,unity,linux,bash'/>
+  <img src='https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,linux,bash,unity'/>
 </a>
 
 ## Github Stats
