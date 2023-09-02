@@ -9,7 +9,7 @@ Twitter is linked in my profile.
 
 ## Skills
 
-Here are some of my skills (not in a specific order):
+Here are some of my skills (roughly in order from best to least good):
 
 <a href='https://skillicons.dev'>
   <img src='https://skillicons.dev/icons?i=cs,dotnet,linux,bash,ts,js,html,css,vue,vite,python,unity'/>
