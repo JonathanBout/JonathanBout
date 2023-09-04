@@ -12,13 +12,13 @@ Twitter is linked in my profile.
 Here are some of my skills:
 
 <a href='https://skillicons.dev'>
-  <img src='https://skillicons.dev/icons?i=cs,linux,bash,ts,js,html,css,vue,vite,python,unity,arduino,sqlite,regex,raspberrypi'/>
+  <img src='https://skillicons.dev/icons?perline=5&i=cs,linux,bash,ts,js,html,css,vue,vite,python,unity,arduino,sqlite,regex,raspberrypi'/>
 </a>
 
 And some tools and programs I use:
 
 <a href='https://skillicons.dev'>
-  <img src='https://skillicons.dev/icons?i=visualstudio,vscode,github,gitlab,git,discord,postman,stackoverflow'/>
+  <img src='https://skillicons.dev/icons?perline=5&i=visualstudio,vscode,github,gitlab,git,discord,postman,stackoverflow'/>
 </a>
 
 ### Github Stats
