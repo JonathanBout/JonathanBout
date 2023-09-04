@@ -3,8 +3,7 @@
 
 Welcome to my Github profile! My name is Jonathan Bout and I'm from The Netherlands. Since I started programming in early 2020 I have made several projects, ranging from games developed with Unity to small projects with Arduino and even web servers hosted on a Raspberry Pi and later an Odroid N2+. At the moment I'm managing some small Dutch websites, one with WordPress and another one with Blazor. I'm also working on a portfolio website, [jonathanbout.nl](https://jonathanbout.nl). Starting September 2023 I am a student informatica at Hogeschool Rotterdam.
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
-Twitter is linked in my profile.
+Feel free to explore my repositories and don't hesitate to create an issue if you have any questions or suggestions!
 <div align=center>
 
 ## Skills
