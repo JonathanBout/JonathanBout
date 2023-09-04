@@ -18,7 +18,7 @@ Here are some of my skills:
 And some tools and programs I use:
 
 <a href='https://skillicons.dev'>
-  <img src='https://skillicons.dev/icons?perline=5&i=visualstudio,vscode,github,gitlab,git,discord,postman,stackoverflow'/>
+  <img src='https://skillicons.dev/icons?perline=5&i=visualstudio,vscode,github,gitlab,git,,discord,postman,stackoverflow'/>
 </a>
 
 ### Github Stats
