@@ -33,7 +33,7 @@ of course I want to show you my GitHib statistics:
  
 ### StackOverflow Profile
 
-I also have a StackOverflow profile:
+I also have a StackOverflow profile:  
 <a href="https://stackoverflow.com/users/16690868/jonathan">
   <img src="https://stackoverflow.com/users/flair/16690868.png?theme=dark" width="208" height="58" alt="profile for Jonathan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jonathan at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
