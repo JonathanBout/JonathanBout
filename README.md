@@ -21,7 +21,7 @@ And some tools and programs I use:
 
 ### Github Stats
 
-of course I want to show you my GitHib statistics:
+of course I want to show you my GitHub statistics:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbout&theme=aura_dark&count_private=true&layout=compact" />
