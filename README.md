@@ -24,11 +24,11 @@ And some tools and programs I use:
 of course I want to show you my GitHub statistics:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.jonathanbout.nl/api/top-langs/?username=jonathanbout&theme=aura_dark&count_private=true&layout=compact?x=x" />
+  <img src="https://github-readme-stats.jonathanbout.nl/api/top-langs/?username=jonathanbout&theme=aura_dark&count_private=true&layout=compact" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.jonathanbout.nl/api?username=jonathanbout&show_icons=true&theme=aura_dark&count_private=true?x=x" />
+  <img src="https://github-readme-stats.jonathanbout.nl/api?username=jonathanbout&show_icons=true&theme=aura_dark&count_private=true" />
 </a>
  
 ### StackOverflow Profile
