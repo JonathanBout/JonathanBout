@@ -38,13 +38,6 @@ I also have a StackOverflow profile, although it's not _that_ impressive:
   <img src="https://stackoverflow.com/users/flair/16690868.png?theme=dark" width="208" height="58" alt="profile for Jonathan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jonathan at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-## Other Interests
-
-I enjoy keeping up with the space industry and its new technology, in addition to coding. It's always exciting to see a rocket launch into space! :rocket::star:
-</div>
-
-
-
 <!---
 DutchAerospace/DutchAerospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
