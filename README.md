@@ -10,13 +10,15 @@ Feel free to explore my repositories and don't hesitate to create an issue if yo
 Here are some of my skills:
 
 <a href='https://skillicons.dev'>
-  <img src='https://skillicons.dev/icons?perline=5&i=cs,linux,bash,ts,js,html,css,vue,vite,python,unity,arduino,sqlite,regex,raspberrypi'/>
+  <img
+alt='CSharp, Linux, bash, TypeScript, JavaScript, HTML, CSS, Vue, Vite, Python, Unity, Arduino, mySQL, Regex' and Raspberry Pi' src='https://skillicons.dev/icons?perline=5&i=cs,linux,bash,ts,js,html,css,vue,vite,python,unity,arduino,mysql,regex,raspberrypi'/>
 </a>
 
 And some tools and programs I use:
 
 <a href='https://skillicons.dev'>
-  <img src='https://skillicons.dev/icons?perline=5&i=visualstudio,vscode,github,gitlab,git,,discord,postman,stackoverflow'/>
+  <img
+alt='Visual Studio 2022, VSCode, GitHub, GitLab, git, discord, postman and StackOverflow' src='https://skillicons.dev/icons?perline=5&i=visualstudio,vscode,github,gitlab,git,,discord,postman,stackoverflow'/>
 </a>
 
 ### Github Stats
