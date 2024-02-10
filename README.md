@@ -11,7 +11,7 @@ Here are some of my skills:
 
 <a href='https://skillicons.dev'>
   <img
-alt='CSharp, Linux, bash, TypeScript, JavaScript, HTML, CSS, Vue, Vite, Python, Unity, Arduino, mySQL, Regex' and Raspberry Pi' src='https://skillicons.dev/icons?perline=5&i=cs,linux,bash,ts,js,html,css,vue,vite,python,unity,arduino,mysql,regex,raspberrypi,,less'/>
+alt='CSharp, Linux, bash, TypeScript, JavaScript, HTML, CSS, Vue, Vite, Python, Unity, Arduino, mySQL, Regex' and Raspberry Pi' src='https://skillicons.dev/icons?perline=5&i=cs,linux,bash,ts,js,html,css,vue,vite,python,unity,arduino,mysql,regex,raspberrypi'/>
 </a>
 
 And some tools and programs I use:
