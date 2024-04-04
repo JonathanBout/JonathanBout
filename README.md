@@ -26,11 +26,11 @@ alt='Visual Studio 2022, VSCode, GitHub, GitLab, git, discord, postman and Stack
 of course I want to show you my GitHub statistics:
 
 <a href="https://github.com/jonathanbout/github-readme-stats">
-  <img src="https://github-readme-stats.jonathanbout.nl/api/top-langs/?username=jonathanbout&hide=shaderlab,hlsl&theme=aura_dark&count_private=true&layout=compact" />
+  <img src="https://github-stats.jonathanbout.com/api/top-langs?hide=shaderlab,hlsl&theme=aura_dark&count_private=true&layout=compact" />
 </a>
 <br/>
 <a href="https://github.com/jonathanbout/github-readme-stats">
-  <img src="https://github-readme-stats.jonathanbout.nl/api?username=jonathanbout&show_icons=true&theme=aura_dark&count_private=true" />
+  <img src="https://github-stats.jonathanbout.com/api?show_icons=true&theme=aura_dark&count_private=true" />
 </a>
  
 ### StackOverflow Profile
