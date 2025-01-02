@@ -2,7 +2,7 @@
 
 Welcome to my Github profile! My name is Jonathan Bout and I'm from The Netherlands. Since I started programming in early 2020 I have made several projects, ranging from games developed with Unity to small projects with Arduino.
 At the moment I'm managing some small Dutch websites, one with WordPress and another one with Blazor. I'm also working on a portfolio website, [jonathanbout.com](https://jonathanbout.com). When your browser language is set to dutch and you haven't been on the site before, it'll switch to [jonathanbout.nl](https://jonathanbout.nl).
-Most of those websites and all my school projects are self-hosted on my Docker Swarm, currently consisting of only an Odroid N2+ and a Raspberry Pi 5. To persist data, I have set up a database server using an Odroid C4 running Debian with mdadm for RAID10, spreading the data over 4 250GB SSDs.
+Most of those websites and all my school projects are self-hosted on my Docker Swarm, currently consisting of only an Odroid N2+ and a Raspberry Pi 5 but extendable to, well, 256 
 
 
 Feel free to explore my repositories and don't hesitate to create an issue if you have any questions or suggestions!
