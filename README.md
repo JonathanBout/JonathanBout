@@ -10,18 +10,19 @@ Feel free to explore my repositories and don't hesitate to create an issue if yo
 
 ## Skills
 
-Here are some of my skills:
+These are my main skills in back- and frontend development, DevOps, game development and more. 
 
 <a href='https://skillicons.dev'>
   <img
-alt='CSharp, Linux, bash, TypeScript, JavaScript, HTML, CSS, Vue, Vite, Python, Unity, Arduino, mySQL, Regex,docker' and Raspberry Pi' src='https://skillicons.dev/icons?perline=6&i=cs,linux,bash,ts,js,html,css,vue,docker,python,unity,arduino,mysql,postgresql,regex,golang,raspberrypi,react'/>
+alt='CSharp, Linux, bash, TypeScript, JavaScript, HTML, CSS, Vue, Docker, Python, Unity, Arduino, mySQL, PostgreSQL, Regex, Golang, Raspberry Pi, React' and Raspberry Pi' src='https://skillicons.dev/icons?perline=6&i=cs,linux,bash,ts,js,html,css,vue,docker,python,unity,arduino,mysql,postgresql,regex,golang,raspberrypi,react'/>
 </a>
 
-And some tools and programs I use:
+And some tools and programs I commonly use (or have used):
 
 <a href='https://skillicons.dev'>
   <img
-alt='Visual Studio 2022, VSCode, GitHub, GitLab, git, discord, postman and StackOverflow' src='https://skillicons.dev/icons?perline=6&i=visualstudio,vscode,github,gitlab,git,discord,,,postman,stackoverflow'/>
+alt='Visual Studio 2022, VSCode, GitHub, GitLab, git, discord, postman and StackOverflow'
+    src='https://skillicons.dev/icons?perline=6&i=visualstudio,vscode,github,gitlab,git,discord,,,postman,stackoverflow'/>
 </a>
 
 ### Github Stats
@@ -43,5 +44,5 @@ feel free to check it out over at [github-stats.jonathanbout.dev](https://github
 
 I also have a StackOverflow profile, although it's not _that_ impressive:  
 <a href="https://stackoverflow.com/users/16690868/jonathan">
-  <img src="https://stackoverflow.com/users/flair/16690868.png?theme=dark" width="208" height="58" alt="profile for Jonathan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jonathan at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  <img src="https://stackoverflow.com/users/flair/16690868.png?theme=dark" width="208" height="58" alt="My profile at Stack Overflow" title="My profile at Stack Overflow">
 </a>
