@@ -1,8 +1,9 @@
 # 👋 Hi there!
 
-Welcome to my Github profile! My name is Jonathan Bout and I'm from The Netherlands. Since I started programming in early 2020 I have made several projects, ranging from games developed with Unity to small projects with Arduino.
-At the moment I'm managing some small Dutch websites, one with WordPress and another one with Blazor. I'm also working on a portfolio website, [jonathanbout.com](https://jonathanbout.com). When your browser language is set to dutch and you haven't been on the site before, it'll switch to [jonathanbout.nl](https://jonathanbout.nl).
-Most of those websites and all my school projects are self-hosted on my Docker Swarm, currently consisting of only an Odroid N2+ and a Raspberry Pi 5 but I'm planning to extend it with some more devices, and a database server.
+Welcome to my Github profile! My name is Jonathan Bout and I'm from The Netherlands. After I started programming in early 2020 I have made several projects, ranging from games developed with Unity to small projects with Arduino.
+At the moment I'm managing some small Dutch websites, one with WordPress and another one with Blazor. I'm also working on a portfolio website, [jonathanbout.com](https://jonathanbout.com). When your browser language is set to dutch and you haven't been on the site before, it'll switch to [jonathanbout.nl](https://jonathanbout.nl).  
+Most of those websites and all my school projects are self-hosted on my Docker Swarm, currently consisting of only an Odroid N2+ and a Raspberry Pi 5 but I'm planning to extend it with an Odroid C4, and a Raspberry Pi 5 database server.  
+I also manage a Home Assistant instance for home automation and a OpenMediaVault instance for NAS, both on their dedicated Raspberry Pi 4.
 
 
 Feel free to explore my repositories and don't hesitate to create an issue if you have any questions or suggestions!
